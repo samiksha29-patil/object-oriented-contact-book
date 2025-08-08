@@ -44,6 +44,12 @@ This project was created to:
 
 ---
 
-## 📂 Project Structure
+## 📸 Screenshots
 
+![Screenshot 10](https://github.com/samiksha29-patil/object-oriented-contact-book/blob/main/Screenshot%20(10).png)  
+![Screenshot 11](https://github.com/samiksha29-patil/object-oriented-contact-book/blob/main/Screenshot%20(11).png)  
+![Screenshot 12](https://github.com/samiksha29-patil/object-oriented-contact-book/blob/main/Screenshot%20(12).png)  
+![Screenshot 13](https://github.com/samiksha29-patil/object-oriented-contact-book/blob/main/Screenshot%20(13).png)  
+![Screenshot 7](https://github.com/samiksha29-patil/object-oriented-contact-book/blob/main/Screenshot%20(7).png)  
+![Screenshot 8](https://github.com/samiksha29-patil/object-oriented-contact-book/blob/main/Screenshot%20(8).png)  
 
